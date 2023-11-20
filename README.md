@@ -5,3 +5,5 @@ This is an example repository for the Git tutorial on https://www.w3schools.com.
 This repository is built step by step in the tutorial.
 
 This now includes steps for GitHub.
+
+This is an additional change to this file.
